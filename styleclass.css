@@ -1,0 +1,16 @@
+.yazıstill{
+    color: blue;
+    font-size: 20px;
+}
+.kutu{
+    width: 50px;
+    height: 30px;
+    border: solid 3px green;
+    margin-left: 50px;
+    float: left;
+}
+
+.kutuhiza{
+    float: left;
+    width: 200px;
+}

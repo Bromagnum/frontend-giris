@@ -1,0 +1,10 @@
+.a {
+  color: red;
+  background-color: yellow;
+  display: inline;
+}
+.b {
+  color: blue;
+  background-color: green;
+  display: inline-block;
+}

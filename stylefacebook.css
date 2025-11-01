@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+#ust{
+    
+    height: 83px;
+    background-color: blue;
+    
+}
+#logo{
+    width: 200px;
+    height: 83px;
+    box-sizing: border-box;
+    background-color: blue;
+    float: left;
+    margin-left: 250px;
+    float: left;
+    
+    
+}
+#form{
+    width: 400px;
+    height: 83px;
+    background-color: blue;
+    margin-left: 400px;
+    margin-right: 200px;
+    padding-top: 15px;
+    box-sizing: border-box;
+    float: left;
+    color: white;
+}
+#resim1{
+    width: 200px;
+    height: 83px;
+    box-sizing: border-box;
+    
+}
+

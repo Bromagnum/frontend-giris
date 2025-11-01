@@ -18,3 +18,45 @@
     box-sizing: border-box;
     padding-top: 120px;
 }
+#menu{
+    width: 700px;
+    height: 50px;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#menu ul{
+    list-style: none;
+}
+#menu ul li{
+    float: left;
+    color: white;
+    box-sizing: border-box;
+    padding-top: 12px;
+    display: block;
+    width: 120px;
+    height: 45px;
+    text-align: center;
+    margin-left: 25px;
+}
+.btn{
+    width: 150px;
+    height: 45px;
+    background-color: aqua;
+    border-bottom: solid 4px blue;
+    border-top: solid 1px blue;
+    border-left: solid 1px blue;
+    border-right: solid 1px blue;
+    border-radius: 4px;
+    color: white;
+}
+.btnn{
+    width: 150px;
+    height: 45px;
+    background-color: aqua;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: solid 4px violet;
+    color: white;
+}
